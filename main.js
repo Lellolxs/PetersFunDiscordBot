@@ -203,5 +203,6 @@ Client.on('message', message => {
 })
 
 // Ez kell. Kész. Ezzel jelentkezik be a bot.
-Client.login('NzYzNzA4MTU1MzA1MjYzMTE0.X37opQ.0idSCGxv0voQnt2M9WLeSnpWA6s');
+Client.login(''); // Ide kellene a bot tokenje, de az nem publikus szóval yeeaahh.. rakd be majd a sajátod
+// https://discord.com/developers/applications/
 
